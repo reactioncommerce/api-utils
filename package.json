@@ -39,7 +39,7 @@
     "envalid": "^6.0.2",
     "graphql-fields": "^2.0.3",
     "graphql-relay": "^0.6.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ramda": "^0.27.0",
     "transliteration": "^2.1.9"
   },
